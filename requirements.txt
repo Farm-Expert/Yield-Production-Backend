@@ -1,0 +1,9 @@
+pandas
+numpy
+fastapi
+uvicorn
+google-generativeai
+Pillow
+pydantic
+diff-match-patch
+scikit-learn
