@@ -5,7 +5,7 @@ from PIL import Image
 import google.generativeai as genai
 
 app=FastAPI()
-genai.configure(api_key="AIzaSyBDqOhWlvNqG9Crmb7Ip01vNYtMSHKtx1A")
+genai.configure(api_key="AIzaSyCzdI-Itcf8eSbrg8IHeNTfOhzeqkDKTg4")
 
 
 class User(BaseModel):
